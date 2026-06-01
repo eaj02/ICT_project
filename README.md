@@ -6,18 +6,6 @@
 > **Student:** 정윤재 (Jeong Yunjae, 2023270692)
 > **Type:** Individual Project — Module 4 Capstone
 
----
-
-## 📹 발표/데모 영상 (Mandatory)
-
-> ⚠️ **제출 전 반드시 실제 링크로 교체할 것.** 과제 규정상 영상 링크는 필수입니다.
-
-- **YouTube (Unlisted):** `https://youtu.be/PASTE_YOUR_VIDEO_ID_HERE`
-- **Google Drive (View only):** `https://drive.google.com/file/d/PASTE_YOUR_FILE_ID_HERE/view`
-
-5–8분 분량의 시스템 설명 + 라이브 데모 영상입니다.
-
----
 
 ## 1. 한 줄 요약
 
